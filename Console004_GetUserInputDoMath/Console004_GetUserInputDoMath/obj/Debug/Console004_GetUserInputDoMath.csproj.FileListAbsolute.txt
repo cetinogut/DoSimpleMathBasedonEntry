@@ -1,0 +1,6 @@
+C:\Users\cetin_000.CASPERNIRVANA\source\repos\Console004_GetUserInputDoMath\Console004_GetUserInputDoMath\bin\Debug\Console004_GetUserInputDoMath.exe.config
+C:\Users\cetin_000.CASPERNIRVANA\source\repos\Console004_GetUserInputDoMath\Console004_GetUserInputDoMath\bin\Debug\Console004_GetUserInputDoMath.exe
+C:\Users\cetin_000.CASPERNIRVANA\source\repos\Console004_GetUserInputDoMath\Console004_GetUserInputDoMath\bin\Debug\Console004_GetUserInputDoMath.pdb
+C:\Users\cetin_000.CASPERNIRVANA\source\repos\Console004_GetUserInputDoMath\Console004_GetUserInputDoMath\obj\Debug\Console004_GetUserInputDoMath.csprojAssemblyReference.cache
+C:\Users\cetin_000.CASPERNIRVANA\source\repos\Console004_GetUserInputDoMath\Console004_GetUserInputDoMath\obj\Debug\Console004_GetUserInputDoMath.exe
+C:\Users\cetin_000.CASPERNIRVANA\source\repos\Console004_GetUserInputDoMath\Console004_GetUserInputDoMath\obj\Debug\Console004_GetUserInputDoMath.pdb
